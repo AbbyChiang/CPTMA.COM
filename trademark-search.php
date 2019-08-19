@@ -1,9 +1,9 @@
 <?php
-	/**
-	 * Configure tmsearch object
-   * Copyright http://cptma.com
-   * By Ray
-	 */
+/**
+ * Configure tmsearch object
+ * Copyright http://cptma.com
+ * By Ray
+ */
 	$tmsearch_obj_config = array
 	(
       	'name' => array
